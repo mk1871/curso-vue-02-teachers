@@ -1,9 +1,9 @@
 <script lang="ts" setup>
-import TeachersForm from '@/components/TeachersForm.vue'
+import CycleComposition from '@/components/CycleComposition.vue'
 </script>
 
 <template>
-  <TeachersForm />
+  <CycleComposition />
 </template>
 
 <style scoped></style>
